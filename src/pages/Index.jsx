@@ -30,7 +30,7 @@ const Index = () => {
   ];
 
   return (
-    <Box p={5}>
+    <Box p={5} bg="#f1efe7">
       <Flex justifyContent="space-between" alignItems="center" mb={10}>
         <Text fontSize="3xl" fontWeight="bold">
           Solehub
