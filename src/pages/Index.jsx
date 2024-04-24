@@ -33,7 +33,7 @@ const Index = () => {
     <Box p={5}>
       <Flex justifyContent="space-between" alignItems="center" mb={10}>
         <Text fontSize="3xl" fontWeight="bold">
-          Sneaker City
+          Solehub
         </Text>
         <HStack spacing={4}>
           <Button leftIcon={<FaSearch />} colorScheme="teal" variant="solid">
